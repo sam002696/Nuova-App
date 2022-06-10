@@ -117,7 +117,6 @@ const Footer = () => {
                 <img className='mix-blend-multiply absolute right-0 -top-28' src={elipse21} alt="" />
                 <img className='mix-blend-multiply absolute right-36' src={elipse23} alt="" />
             </section>
-
         </footer>
 
     );
